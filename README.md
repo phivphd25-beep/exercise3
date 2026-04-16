@@ -2,3 +2,4 @@
 This is my first project
 Author: Phi Van Thanh
 Add new feature visualization
+Final squash merge step
