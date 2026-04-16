@@ -1,4 +1,5 @@
 # My Project
-This is my first project
-Author: Phi Van Thanh
- Add visualisation feature
+
+This is my first project Author: Phi Van Thanh  
+Add visualisation feature  
+Final squash merge step
